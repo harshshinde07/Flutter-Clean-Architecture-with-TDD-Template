@@ -1,0 +1,1 @@
+// Will contain abstract usecases class with generic type and parameters
